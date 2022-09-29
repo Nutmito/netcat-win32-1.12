@@ -7,9 +7,6 @@ UPDATE 12/27/04 security fix in -e option for Windows
 
 Netcat 1.11 for NT - nc111nt.zip
 
-The original version of Netcat was written by *hobbit* <hobbit@avian.org>
-The NT version was done by Weld Pond <weld@vulnwatch.org>
-
 Netcat for NT is the tcp/ip "Swiss Army knife" that never made it into any 
 of the resource kits.  It has proved to be an extremely versatile tool on 
 the unix platform. So why should NT always be unix's poor cousin when it 
